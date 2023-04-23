@@ -1,0 +1,42 @@
+/******************************************
+/* HOT GARBAGE - PLEASE DON'T MIMIC THIS CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+
+html{
+  font-size: 10px;
+}
+
+body {
+  background: rgb(16, 82, 102);
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+
+.flag{
+  height: 210px;
+  width: 210px;
+  border-radius: 30%;
+  margin: 5px 75px;
+  cursor: pointer;
+}
+ul {
+  text-align: end;
+}
+h1{
+  text-align: center;
+  font-size: 5rem;
+}
