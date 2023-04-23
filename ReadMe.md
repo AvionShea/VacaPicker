@@ -24,10 +24,6 @@ Created a vacation picker based off the YouTube picker created and demostrated b
 
 This is a screenshot of one of the locations listed on the vacation picker. Visible after clicking on the flag.
 
-### Links
-
-- [Live Site](https://vaca-picker.vercel.app/)
-
 ## My process
 
 Determined what theme I wanted to use for my project. Because a vacation would be nice, I decided to use places I would love to visit. From there, I searched for images that I found appealing. Because I'm not familiar with writing text outside of the console, I decided to use the alert function JS offeres. The helpe with notifying the user of the location.
