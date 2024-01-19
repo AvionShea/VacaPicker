@@ -1,6 +1,6 @@
 # VacaPicker
 
-First JS project without using a tutorial! - Uploaded to see progress over the next few months
+First JS project without using a tutorial!
 
 ## Table of contents
 
