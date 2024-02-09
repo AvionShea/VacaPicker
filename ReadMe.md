@@ -1,6 +1,5 @@
 # VacaPicker
-
-First JS project without using a tutorial!
+Can't decide on your next vacation? Have no fear, Vacation Picker is here! Close your eyes and click a flag for your next adventure.
 
 ## Table of contents
 
