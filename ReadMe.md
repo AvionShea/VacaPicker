@@ -69,6 +69,6 @@ Things I will continue to focus on:
 
 - GitHub - [AvionShea](https://github.com/AvionShea)
 - LinkedIn - [Avion Cobb](https://www.linkedin.com/in/avion-cobb/)
-- Twitter - [@Avion_Cobb](https://www.twitter.com/Avion_Cobb)
+- Twitter - [@Blvck_Lotus003](https://twitter.com/Blvck_Lotus003)
 - Frontend Mentor - [@AvionShea](https://www.frontendmentor.io/profile/AvionShea)
 - Website - [Avion Cobb](https://avionshea.github.io/)
