@@ -6,7 +6,7 @@ document.querySelector("#Tuvalu").addEventListener("click", vacaTuvalu);
 
 function vacaGhana() {
     document.querySelector("body").style.background = "url('img/Ghana.png') center / cover";
-    alert ("Ghana, Africa")
+    alert ("Ghana, Africa");
 }
 
 function vacaJapan() {
